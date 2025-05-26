@@ -1,0 +1,99 @@
+/* Styling untuk keseluruhan halaman */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e6dec9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Container utama */
+.card {
+    max-width: 1400px;
+    margin: 20px auto;
+    background: rgb(250, 245, 221);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.container{
+    max-width: 1600px;
+    margin: 20px auto;
+    background: rgb(182, 177, 157);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cardPenulis{
+    
+    text-align: left;
+    max-width: 300px;
+    margin: 20px auto;
+    background: rgb(250, 245, 221);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header utama */
+header{
+    text-align: center;
+    background: rgb(71, 61, 34);
+    color: rgb(224, 220, 192);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    padding: 55px;
+}
+
+h1 {
+    color: #27282c;
+    text-align: center;
+}
+
+h3 {
+    color: #27282c;
+    text-align: left;
+    margin-left: 90px;
+}
+
+h5 {
+    color: #27282c;
+    text-align: left;
+    margin-left: 90px;
+}
+
+/* Paragraf */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Garis pemisah */
+hr {
+    border: none;
+    height: 2px;
+    background: #ddd;
+    margin: 10px 0;
+}
+
+/* Greeting */
+small {
+    display: block;
+    font-style: italic;
+    text-align: center;
+    color: #888;
+    margin-top: 5px;
+}
+
+/* image */
+.logo{
+    width: 100px;
+    float: inline-start;
+}
+
+/* footer{
+
+} */

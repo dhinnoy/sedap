@@ -1,0 +1,213 @@
+[
+    {
+      "id": 1,
+      "name": "Budiman",
+      "email": "budi.man@gmail.com",
+      "phone": "081255462716",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 2,
+      "name": "Setia Budi",
+      "email": "budisetia@gmail.com",
+      "phone": "081345462716",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 3,
+      "name": "Bunga Citra Lestari",
+      "email": "bunga0978@gmail.com",
+      "phone": "082355168929",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 4,
+      "name": "Rudi Hartono",
+      "email": "rudi.h@gmail.com",
+      "phone": "081234567890",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 5,
+      "name": "Tina Agustina",
+      "email": "tina.a@gmail.com",
+      "phone": "082234567891",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 6,
+      "name": "Dewi Sartika",
+      "email": "dewi.s@gmail.com",
+      "phone": "083134567892",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 7,
+      "name": "Ari Wibowo",
+      "email": "ari.wibowo@gmail.com",
+      "phone": "084234567893",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 8,
+      "name": "Santi Marlina",
+      "email": "santi.m@gmail.com",
+      "phone": "085234567894",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 9,
+      "name": "Joko Widodo",
+      "email": "jokowi@gmail.com",
+      "phone": "081299999999",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 10,
+      "name": "Mega Putri",
+      "email": "mega.putri@gmail.com",
+      "phone": "082255555555",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 11,
+      "name": "Rina Kurnia",
+      "email": "rina.k@gmail.com",
+      "phone": "083377777777",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 12,
+      "name": "Andi Saputra",
+      "email": "andi.s@gmail.com",
+      "phone": "081366666666",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 13,
+      "name": "Linda Puspita",
+      "email": "linda.p@gmail.com",
+      "phone": "082388888888",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 14,
+      "name": "Bambang Pamungkas",
+      "email": "bambang.p@gmail.com",
+      "phone": "081300011122",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 15,
+      "name": "Sari Dewi",
+      "email": "sari.dewi@gmail.com",
+      "phone": "081322233344",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 16,
+      "name": "Anton Wijaya",
+      "email": "anton.w@gmail.com",
+      "phone": "081344455566",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 17,
+      "name": "Citra Melati",
+      "email": "citra.m@gmail.com",
+      "phone": "082311223344",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 18,
+      "name": "Fajar Nugroho",
+      "email": "fajar.n@gmail.com",
+      "phone": "083355566677",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 19,
+      "name": "Dian Sastro",
+      "email": "dian.s@gmail.com",
+      "phone": "081399988877",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 20,
+      "name": "Kiki Amelia",
+      "email": "kiki.a@gmail.com",
+      "phone": "085311144455",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 21,
+      "name": "Rizky Hidayat",
+      "email": "rizky.h@gmail.com",
+      "phone": "081366677788",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 22,
+      "name": "Nina Zain",
+      "email": "nina.z@gmail.com",
+      "phone": "082399911122",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 23,
+      "name": "Agus Salim",
+      "email": "agus.salim@gmail.com",
+      "phone": "081311122233",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 24,
+      "name": "Putri Maharani",
+      "email": "putri.m@gmail.com",
+      "phone": "081355566677",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 25,
+      "name": "Galih Pratama",
+      "email": "galih.p@gmail.com",
+      "phone": "082344455566",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 26,
+      "name": "Yuli Astuti",
+      "email": "yuli.a@gmail.com",
+      "phone": "084344455566",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 27,
+      "name": "Imam Santoso",
+      "email": "imam.s@gmail.com",
+      "phone": "081355588899",
+      "loyalty": "Silver"
+    },
+    {
+      "id": 28,
+      "name": "Salsa Anindya",
+      "email": "salsa.a@gmail.com",
+      "phone": "085311199900",
+      "loyalty": "Gold"
+    },
+    {
+      "id": 29,
+      "name": "Daffa Maulana",
+      "email": "daffa.m@gmail.com",
+      "phone": "082388899900",
+      "loyalty": "Bronze"
+    },
+    {
+      "id": 30,
+      "name": "Lukman Hakim",
+      "email": "lukman.h@gmail.com",
+      "phone": "081344433322",
+      "loyalty": "Silver"
+    }
+  ]
+  

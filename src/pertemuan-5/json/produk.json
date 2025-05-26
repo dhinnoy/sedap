@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "nama": "Baju Tidur Katun",
+        "kategori": "Pakaian",
+        "stok": 50,
+        "harga": 85000,
+        "deskripsi": "Baju tidur berbahan katun lembut dan nyaman."
+    },
+    {
+        "id": 2,
+        "nama": "Vas Bunga Keramik",
+        "kategori": "Dekorasi",
+        "stok": 30,
+        "harga": 120000,
+        "deskripsi": "Vas bunga dari keramik dengan desain minimalis."
+    },
+    {
+        "id": 3,
+        "nama": "Topi Baseball",
+        "kategori": "Aksesoris",
+        "stok": 70,
+        "harga": 65000,
+        "deskripsi": "Topi baseball dengan logo bordir keren."
+    },
+    {
+        "id": 4,
+        "nama": "Kacamata Hitam",
+        "kategori": "Aksesoris",
+        "stok": 40,
+        "harga": 180000,
+        "deskripsi": "Kacamata hitam stylish dengan perlindungan UV."
+    },
+    {
+        "id": 5,
+        "nama": "Benang Rajut Warna-warni",
+        "kategori": "Kerajinan",
+        "stok": 100,
+        "harga": 35000,
+        "deskripsi": "Benang rajut berkualitas tinggi dengan warna cerah."
+    },
+    {
+        "id": 6,
+        "nama": "Tas Kulit Asli",
+        "kategori": "Tas",
+        "stok": 25,
+        "harga": 250000,
+        "deskripsi": "Tas kulit asli dengan desain elegan."
+    },
+    {
+        "id": 7,
+        "nama": "Sepatu Sneakers Casual",
+        "kategori": "Sepatu",
+        "stok": 60,
+        "harga": 300000,
+        "deskripsi": "Sepatu sneakers nyaman untuk aktivitas sehari-hari."
+    },
+    {
+        "id": 8,
+        "nama": "Jam Tangan Analog",
+        "kategori": "Aksesoris",
+        "stok": 35,
+        "harga": 275000,
+        "deskripsi": "Jam tangan analog dengan desain klasik."
+    },
+    {
+        "id": 9,
+        "nama": "Payung Lipat",
+        "kategori": "Aksesoris",
+        "stok": 80,
+        "harga": 45000,
+        "deskripsi": "Payung lipat yang ringan dan mudah dibawa."
+    },
+    {
+        "id": 10,
+        "nama": "Dompet Kulit",
+        "kategori": "Aksesoris",
+        "stok": 45,
+        "harga": 90000,
+        "deskripsi": "Dompet kulit dengan banyak slot kartu."
+    },
+    {
+        "id": 11,
+        "nama": "Baju Tidur Anak",
+        "kategori": "Pakaian",
+        "stok": 70,
+        "harga": 60000,
+        "deskripsi": "Baju tidur anak nyaman dengan motif lucu."
+    },
+    {
+        "id": 12,
+        "nama": "Lampu Meja Minimalis",
+        "kategori": "Elektronik",
+        "stok": 20,
+        "harga": 150000,
+        "deskripsi": "Lampu meja dengan desain minimalis dan terang."
+    },
+    {
+        "id": 13,
+        "nama": "Topi Rajut",
+        "kategori": "Aksesoris",
+        "stok": 90,
+        "harga": 70000,
+        "deskripsi": "Topi rajut hangat cocok untuk musim dingin."
+    },
+    {
+        "id": 14,
+        "nama": "Kacamata Baca",
+        "kategori": "Aksesoris",
+        "stok": 50,
+        "harga": 95000,
+        "deskripsi": "Kacamata baca ringan dan stylish."
+    },
+    {
+        "id": 15,
+        "nama": "Benang Rajut Tebal",
+        "kategori": "Kerajinan",
+        "stok": 120,
+        "harga": 40000,
+        "deskripsi": "Benang rajut tebal cocok untuk membuat sweater."
+    },
+    {
+        "id": 16,
+        "nama": "Sepatu Formal Pria",
+        "kategori": "Sepatu",
+        "stok": 30,
+        "harga": 350000,
+        "deskripsi": "Sepatu formal pria berkualitas tinggi."
+    },
+    {
+        "id": 17,
+        "nama": "Tas Selempang",
+        "kategori": "Tas",
+        "stok": 40,
+        "harga": 130000,
+        "deskripsi": "Tas selempang ringan dan stylish."
+    },
+    {
+        "id": 18,
+        "nama": "Jam Dinding Modern",
+        "kategori": "Dekorasi",
+        "stok": 25,
+        "harga": 110000,
+        "deskripsi": "Jam dinding dengan desain modern dan minimalis."
+    },
+    {
+        "id": 19,
+        "nama": "Payung Anak",
+        "kategori": "Aksesoris",
+        "stok": 60,
+        "harga": 35000,
+        "deskripsi": "Payung anak dengan motif kartun lucu."
+    },
+    {
+        "id": 20,
+        "nama": "Dompet Koin",
+        "kategori": "Aksesoris",
+        "stok": 50,
+        "harga": 70000,
+        "deskripsi": "Dompet kecil untuk menyimpan koin."
+    },
+    {
+        "id": 21,
+        "nama": "Baju Tidur Dewasa",
+        "kategori": "Pakaian",
+        "stok": 55,
+        "harga": 80000,
+        "deskripsi": "Baju tidur dewasa nyaman dan stylish."
+    },
+    {
+        "id": 22,
+        "nama": "Lampu Gantung",
+        "kategori": "Elektronik",
+        "stok": 15,
+        "harga": 180000,
+        "deskripsi": "Lampu gantung dengan desain elegan."
+    },
+    {
+        "id": 23,
+        "nama": "Sepatu Running",
+        "kategori": "Sepatu",
+        "stok": 40,
+        "harga": 280000,
+        "deskripsi": "Sepatu running ringan dan nyaman."
+    },
+    {
+        "id": 24,
+        "nama": "Tas Ransel",
+        "kategori": "Tas",
+        "stok": 30,
+        "harga": 140000,
+        "deskripsi": "Tas ransel cocok untuk aktivitas harian."
+    },
+    {
+        "id": 25,
+        "nama": "Jam Tangan Digital",
+        "kategori": "Aksesoris",
+        "stok": 35,
+        "harga": 220000,
+        "deskripsi": "Jam tangan digital dengan fitur lengkap."
+    },
+    {
+        "id": 26,
+        "nama": "Payung Lipat Otomatis",
+        "kategori": "Aksesoris",
+        "stok": 50,
+        "harga": 60000,
+        "deskripsi": "Payung lipat otomatis yang praktis."
+    },
+    {
+        "id": 27,
+        "nama": "Dompet Kulit Pria",
+        "kategori": "Aksesoris",
+        "stok": 40,
+        "harga": 120000,
+        "deskripsi": "Dompet kulit pria elegan dan tahan lama."
+    },
+    {
+        "id": 28,
+        "nama": "Baju Tidur Satin",
+        "kategori": "Pakaian",
+        "stok": 60,
+        "harga": 95000,
+        "deskripsi": "Baju tidur bahan satin halus dan mewah."
+    },
+    {
+        "id": 29,
+        "nama": "Lampu LED Portable",
+        "kategori": "Elektronik",
+        "stok": 45,
+        "harga": 90000,
+        "deskripsi": "Lampu LED portable untuk berbagai kebutuhan."
+    },
+    {
+        "id": 30,
+        "nama": "Topi Fedora",
+        "kategori": "Aksesoris",
+        "stok": 25,
+        "harga": 85000,
+        "deskripsi": "Topi fedora klasik dengan bahan berkualitas."
+    }
+]

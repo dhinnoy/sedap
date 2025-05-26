@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "nama": "Andi Prasetyo",
+    "perusahaan": "PT Maju Jaya",
+    "jabatan": "Manajer Pemasaran",
+    "foto_profil": "https://i.pravatar.cc/150?img=1",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Maju+Jaya",
+    "testimoni": "Layanan yang sangat profesional dan cepat. Sangat membantu dalam pengembangan bisnis kami."
+  },
+  {
+    "id": 2,
+    "nama": "Sari Wulandari",
+    "perusahaan": "CV Kreatif Solusi",
+    "jabatan": "CEO",
+    "foto_profil": "https://i.pravatar.cc/150?img=2",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Kreatif+Solusi",
+    "testimoni": "Produk berkualitas dengan dukungan pelanggan yang luar biasa. Sangat direkomendasikan!"
+  },
+  {
+    "id": 3,
+    "nama": "Budi Santoso",
+    "perusahaan": "PT Teknologi Nusantara",
+    "jabatan": "CTO",
+    "foto_profil": "https://i.pravatar.cc/150?img=3",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Teknologi+Nusantara",
+    "testimoni": "Solusi inovatif yang membantu kami meningkatkan efisiensi operasional."
+  },
+  {
+    "id": 4,
+    "nama": "Dewi Anggraini",
+    "perusahaan": "PT Sejahtera Abadi",
+    "jabatan": "Kepala HR",
+    "foto_profil": "https://i.pravatar.cc/150?img=4",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sejahtera+Abadi",
+    "testimoni": "Tim yang responsif dan support yang sangat memuaskan."
+  },
+  {
+    "id": 5,
+    "nama": "Rizky Nugroho",
+    "perusahaan": "PT Sukses Makmur",
+    "jabatan": "Direktur",
+    "foto_profil": "https://i.pravatar.cc/150?img=5",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sukses+Makmur",
+    "testimoni": "Partner bisnis yang handal dan terpercaya."
+  },
+  {
+    "id": 6,
+    "nama": "Lina Kusuma",
+    "perusahaan": "PT Maju Jaya",
+    "jabatan": "Staff Marketing",
+    "foto_profil": "https://i.pravatar.cc/150?img=6",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Maju+Jaya",
+    "testimoni": "Layanan pelanggan yang sangat ramah dan solutif."
+  },
+  {
+    "id": 7,
+    "nama": "Eko Saputra",
+    "perusahaan": "CV Kreatif Solusi",
+    "jabatan": "Developer",
+    "foto_profil": "https://i.pravatar.cc/150?img=7",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Kreatif+Solusi",
+    "testimoni": "Produk mudah digunakan dan sangat membantu pekerjaan saya."
+  },
+  {
+    "id": 8,
+    "nama": "Nina Mariana",
+    "perusahaan": "PT Teknologi Nusantara",
+    "jabatan": "QA Engineer",
+    "foto_profil": "https://i.pravatar.cc/150?img=8",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Teknologi+Nusantara",
+    "testimoni": "Tim support selalu cepat merespon dan memberikan solusi terbaik."
+  },
+  {
+    "id": 9,
+    "nama": "Joko Widodo",
+    "perusahaan": "PT Sejahtera Abadi",
+    "jabatan": "Manager Operasional",
+    "foto_profil": "https://i.pravatar.cc/150?img=9",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sejahtera+Abadi",
+    "testimoni": "Sangat puas dengan kualitas produk dan pelayanan yang diberikan."
+  },
+  {
+    "id": 10,
+    "nama": "Maya Sari",
+    "perusahaan": "PT Sukses Makmur",
+    "jabatan": "HRD",
+    "foto_profil": "https://i.pravatar.cc/150?img=10",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sukses+Makmur",
+    "testimoni": "Partner terpercaya dalam pengembangan SDM perusahaan kami."
+  },
+  {
+    "id": 11,
+    "nama": "Agus Santoso",
+    "perusahaan": "PT Maju Jaya",
+    "jabatan": "Kepala Produksi",
+    "foto_profil": "https://i.pravatar.cc/150?img=11",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Maju+Jaya",
+    "testimoni": "Teknologi yang digunakan sangat membantu efisiensi produksi."
+  },
+  {
+    "id": 12,
+    "nama": "Fitri Handayani",
+    "perusahaan": "CV Kreatif Solusi",
+    "jabatan": "Designer",
+    "foto_profil": "https://i.pravatar.cc/150?img=12",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Kreatif+Solusi",
+    "testimoni": "Kreativitas dan inovasi yang ditawarkan luar biasa."
+  },
+  {
+    "id": 13,
+    "nama": "Rian Prabowo",
+    "perusahaan": "PT Teknologi Nusantara",
+    "jabatan": "System Analyst",
+    "foto_profil": "https://i.pravatar.cc/150?img=13",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Teknologi+Nusantara",
+    "testimoni": "Sistem yang disediakan mudah dipahami dan diimplementasikan."
+  },
+  {
+    "id": 14,
+    "nama": "Sinta Dewi",
+    "perusahaan": "PT Sejahtera Abadi",
+    "jabatan": "Finance Manager",
+    "foto_profil": "https://i.pravatar.cc/150?img=14",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sejahtera+Abadi",
+    "testimoni": "Pelayanan finansial yang sangat membantu dan terpercaya."
+  },
+  {
+    "id": 15,
+    "nama": "Hendra Wijaya",
+    "perusahaan": "PT Sukses Makmur",
+    "jabatan": "Sales Manager",
+    "foto_profil": "https://i.pravatar.cc/150?img=15",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sukses+Makmur",
+    "testimoni": "Penjualan kami meningkat pesat berkat dukungan yang diberikan."
+  },
+  {
+    "id": 16,
+    "nama": "Ratna Lestari",
+    "perusahaan": "PT Maju Jaya",
+    "jabatan": "Admin",
+    "foto_profil": "https://i.pravatar.cc/150?img=16",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Maju+Jaya",
+    "testimoni": "Administrasi yang mudah dan cepat berkat sistem yang ada."
+  },
+  {
+    "id": 17,
+    "nama": "Dedi Gunawan",
+    "perusahaan": "CV Kreatif Solusi",
+    "jabatan": "Project Manager",
+    "foto_profil": "https://i.pravatar.cc/150?img=17",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Kreatif+Solusi",
+    "testimoni": "Manajemen proyek berjalan lancar dan sesuai target."
+  },
+  {
+    "id": 18,
+    "nama": "Mila Pratiwi",
+    "perusahaan": "PT Teknologi Nusantara",
+    "jabatan": "Developer",
+    "foto_profil": "https://i.pravatar.cc/150?img=18",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Teknologi+Nusantara",
+    "testimoni": "Produk selalu update dengan fitur terbaru."
+  },
+  {
+    "id": 19,
+    "nama": "Yusuf Kurniawan",
+    "perusahaan": "PT Sejahtera Abadi",
+    "jabatan": "Customer Service",
+    "foto_profil": "https://i.pravatar.cc/150?img=19",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sejahtera+Abadi",
+    "testimoni": "Layanan pelanggan cepat dan responsif."
+  },
+  {
+    "id": 20,
+    "nama": "Indah Permatasari",
+    "perusahaan": "PT Sukses Makmur",
+    "jabatan": "Marketing",
+    "foto_profil": "https://i.pravatar.cc/150?img=20",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sukses+Makmur",
+    "testimoni": "Strategi marketing yang efektif dan hasilnya nyata."
+  },
+  {
+    "id": 21,
+    "nama": "Fajar Nugroho",
+    "perusahaan": "PT Maju Jaya",
+    "jabatan": "Teknisi",
+    "foto_profil": "https://i.pravatar.cc/150?img=21",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Maju+Jaya",
+    "testimoni": "Perawatan teknis sangat profesional dan terpercaya."
+  },
+  {
+    "id": 22,
+    "nama": "Susi Hartati",
+    "perusahaan": "CV Kreatif Solusi",
+    "jabatan": "Content Writer",
+    "foto_profil": "https://i.pravatar.cc/150?img=22",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Kreatif+Solusi",
+    "testimoni": "Konten yang dihasilkan sangat berkualitas dan menarik."
+  },
+  {
+    "id": 23,
+    "nama": "Bambang Sutrisno",
+    "perusahaan": "PT Teknologi Nusantara",
+    "jabatan": "IT Support",
+    "foto_profil": "https://i.pravatar.cc/150?img=23",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Teknologi+Nusantara",
+    "testimoni": "Dukungan IT sangat cepat dan membantu."
+  },
+  {
+    "id": 24,
+    "nama": "Nina Kartika",
+    "perusahaan": "PT Sejahtera Abadi",
+    "jabatan": "Legal Officer",
+    "foto_profil": "https://i.pravatar.cc/150?img=24",
+    "logo_perusahaan": "https://via.placeholder.com/100x50?text=Sejahtera+Abadi",
+    "testimoni": "Konsultasi hukum yang sangat membantu dan profesional."
+  }
+]
