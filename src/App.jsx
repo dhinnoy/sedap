@@ -31,6 +31,7 @@ const Login = React.lazy(() => import("./pertemuan-5/pages/Auth/Login"))
 const Register = React.lazy(() => import("./pertemuan-5/pages/Auth/Register"))
 const Forgot = React.lazy(() => import("./pertemuan-5/pages/Auth/Forgot"))
 const Products = React.lazy(() => import("./pertemuan-5/pages/Products"))
+const ProductDetail = React.lazy(() => import("./pertemuan-5/pages/ProductDetail"))
 
 function App() {
 
@@ -54,6 +55,7 @@ function App() {
                   <Route path="/customers" element={<Customers/>} />
                   <Route path="/user" element={<User/>} />
                   <Route path="/products" element={<Products />} />
+                  <Route path="/products/:id" element={<ProductDetail />} /> 
                 </Route>
                 <Route element={<ErrorLayouts/>}>
                   <Route path="*" element={<ErrorPage code="404"/>} />
