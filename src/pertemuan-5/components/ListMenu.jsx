@@ -1,6 +1,6 @@
 import { BiUserCircle } from "react-icons/bi"; 
 import { BiError } from "react-icons/bi"; 
-import { MdNoEncryptionGmailerrorred } from "react-icons/md"; 
+import { MdFastfood, MdNoEncryptionGmailerrorred } from "react-icons/md"; 
 import { BiCommentError } from "react-icons/bi"; 
 import { BsPeople } from "react-icons/bs"; 
 import { AiOutlineFile } from "react-icons/ai"; 
@@ -38,15 +38,25 @@ export default function ListMenu(){
                         <BiUserCircle className="mr-4"/>User</NavLink>
                     </li>
                     <li>
-                        <NavLink id="menu-5" to="/400" className={menuClass}>
+                        <NavLink
+                                id="menu-5"
+                                to="/products"
+                                className={menuClass}
+                            >
+                                <MdFastfood className="mr-4 text-xl" />
+                                Products
+                        </NavLink>
+                    </li>
+                    <li>
+                        <NavLink id="menu-6" to="/400" className={menuClass}>
                         <BiCommentError className="mr-4"/>Error 400</NavLink>
                     </li>
                     <li>
-                        <NavLink id="menu-6" to="/401" className={menuClass}>
+                        <NavLink id="menu-7" to="/401" className={menuClass}>
                         <MdNoEncryptionGmailerrorred className="mr-4"/>Error 401</NavLink>
                     </li>
                     <li>
-                        <NavLink id="menu-7" to="/403" className={menuClass}>
+                        <NavLink id="menu-8" to="/403" className={menuClass}>
                         <BiError className="mr-4"/>Error 403</NavLink>
                     </li>
                 </ul>
